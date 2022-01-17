@@ -3,7 +3,7 @@ Type: Component
 Name: fc-package
 Provider:
   - 阿里云
-Version: 0.0.1
+Version: 0.0.2
 Description: 打包代码与上传代码
 HomePage: https://github.com/devsapp/fc-package
 Tags: #标签详情
