@@ -9,7 +9,7 @@ HomePage: https://github.com/devsapp/fc-package
 Tags: #标签详情
   - 代码打包
   - 代码上传
-Category: 其他
+Category: 其它
 Commands: # 指令，格式为指令：指令描述，例如：
   zip: 打包代码
   upload: 上传代码
