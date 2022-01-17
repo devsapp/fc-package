@@ -9,7 +9,7 @@ import {AlicloudOss} from './oss';
 
 const {fse, commandParse, help, getCredential} = core;
 
-const FC_CODE_CACHE_DIR = "./.s/temp_zip_path"
+const FC_CODE_CACHE_DIR = "./"
 export default class ComponentDemo {
     /**
      * demo 实例
